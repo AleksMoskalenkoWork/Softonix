@@ -1,0 +1,22 @@
+{
+  "name": "softonix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksMoskalenkoWork/Softonix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AleksMoskalenkoWork/Softonix/issues"
+  },
+  "homepage": "https://github.com/AleksMoskalenkoWork/Softonix#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9"
+  }
+}
