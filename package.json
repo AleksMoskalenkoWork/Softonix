@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "run:All_Tests": "npx playwright test",
+    "run:API_Tests": "npx playwright test tests/api/posts.spec.ts",
+    "run:UI_Tests": "npx playwright test tests/ui"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AleksMoskalenkoWork/Softonix.git"
